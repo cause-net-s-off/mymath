@@ -1,0 +1,2 @@
+# mymath
+for Kata task
