@@ -1,4 +1,3 @@
-module github.com/cause-net-s-off/mymath
-//module studentgit.kata.academy/mrjohnny/mymath
+module github.com/cause-net-s-off/mymath/v1.0.0
 
 go 1.19
